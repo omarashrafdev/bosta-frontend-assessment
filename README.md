@@ -1,8 +1,6 @@
-# React + Vite
+# Bosta Frontend Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The assessment was to build a single page for shipment tracking using tracking number.
 
-Currently, two official plugins are available:
+The projects still needs some adjustments to few algorithms and styling but this is an initial version due to time shortage.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
